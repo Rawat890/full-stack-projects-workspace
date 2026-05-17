@@ -23,6 +23,8 @@ React Hook Form
 Yup Validation
 Axios
 AsyncStorage
+
+
 📝 Notes App
 ➜ Description
 
@@ -39,6 +41,8 @@ Supabase JS
 TanStack React Query
 Expo Router
 React Navigation
+
+
 🚖 Rapido Booking App
 ➜ Description
 

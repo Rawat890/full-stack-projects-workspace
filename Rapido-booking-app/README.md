@@ -1,50 +1,100 @@
-# Welcome to your Expo app 👋
+🚖 Rapido Booking App
+A modern Ride Booking Application inspired by Rapido, built with React Native, Expo, and TypeScript.
+This app provides a smooth and responsive ride-booking experience with real-time location tracking, interactive maps, and seamless navigation across Android, iOS, and Web platforms.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🚀 Features
 
-## Get started
 
-1. Install dependencies
+📍 Live location tracking
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+🗺️ Interactive maps integration
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+🚖 Book rides easily
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+📱 Cross-platform support (Android, iOS, Web)
 
-## Get a fresh project
 
-When you're ready, run:
+⚡ Fast and responsive UI
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+🎨 Modern and clean design
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
+🔄 Smooth bottom sheet interactions
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+☁️ API integration with Axios
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+🚀 Efficient data fetching using React Query
+
+
+
+🛠️ Tech Stack
+
+
+React Native
+
+
+Expo
+
+
+TypeScript
+
+
+React Native Maps
+
+
+Expo Location
+
+
+React Query
+
+
+Expo Router
+
+
+Axios
+
+
+
+📦 Main Libraries Used
+
+
+Expo SDK 54
+
+
+React Native 0.81
+
+
+React 19
+
+
+Expo Router
+
+
+React Navigation
+
+
+React Native Maps
+
+
+Expo Location
+
+
+TanStack React Query
+
+
+Axios
+
+
+AsyncStorage
+
+
+Gorhom Bottom Sheet
+
+
+React Native Reanimated

@@ -11,6 +11,7 @@ This app allows users to create, manage, and organize notes with a smooth and re
 🎨 Clean and modern UI
 🔄 Real-time and efficient state management
 🚀 Smooth navigation with Expo Router
+
 🛠️ Tech Stack
 React Native
 Expo
@@ -19,6 +20,7 @@ Supabase
 React Query
 Expo Router
 React Navigation
+
 📦 Main Libraries Used
 Expo SDK 54
 React Native 0.81
